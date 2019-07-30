@@ -8,7 +8,7 @@
  * - Free for use in both personal and commercial projects
  */
 /* exported Lightbox */
-function Lightbox() {
+export default function Lightbox() {
   
   /**
    * Constants
